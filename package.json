@@ -1,0 +1,23 @@
+{
+  "name": "json-test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalfusMVue/json-test-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalfusMVue/json-test-api/issues"
+  },
+  "homepage": "https://github.com/CalfusMVue/json-test-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

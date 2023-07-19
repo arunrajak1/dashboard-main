@@ -1,0 +1,670 @@
+{
+    "cashbalance": {
+        "amount": "49856324"
+    },
+    "daily": [
+        {
+            "companies": {
+                "checkr": {
+                    "data": [
+                        {
+                            "date": "23-05-01",
+                            "ar": 702579.04,
+                            "ap": 29013395,
+                            "net": -4813521.50
+                        },
+                        {
+                            "date": "23-05-02",
+                            "ar": 3695080.16,
+                            "ap": 29013395
+                        },
+                        {
+                            "date": "23-05-03",
+                            "ar": 650708.29,
+                            "ap": 29013395
+                        },
+                        {
+                            "date": "23-05-04",
+                            "ar": 24508267.84,
+                            "ap": 29013395
+                        },
+                        {
+                            "date": "23-05-05",
+                            "ar": 1111970.86,
+                            "ap": 29013395
+                        },
+                        {
+                            "date": "23-05-06",
+                            "ar": 76173.15,
+                            "ap": 29013395
+                        },
+                        {
+                            "date": "23-05-07",
+                            "ar": 32847.17,
+                            "ap": 29013395
+                        }
+                    ],
+                    "net": [
+                        {
+                            "date": "23-05-01",
+                            "net": -28210815.96
+                        },
+                        {
+                            "date": "23-05-02",
+                            "net": -25318314.84
+                        },
+                        {
+                            "date": "23-05-03",
+                            "net": -28362686.71
+                        },
+                        {
+                            "date": "23-05-04",
+                            "net": 24218133.89
+                        },
+                        {
+                            "date": "23-05-05",
+                            "net": -27801424.14
+                        },
+                        {
+                            "date": "23-05-06",
+                            "net": -28937221.85
+                        },
+                        {
+                            "date": "23-05-07",
+                            "net": -28980547.83
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "name": "Uber",
+                            "amount": "24458138"
+                        },
+                        {
+                            "name": "Go Brands Inc",
+                            "amount": "587399"
+                        },
+                        {
+                            "name": "Aramark",
+                            "amount": "456719"
+                        },
+                        {
+                            "name": "Pattern Jobs",
+                            "amount": "239085"
+                        },
+                        {
+                            "name": "TwoMagnets Inc.",
+                            "amount": "178985"
+                        }
+                    ],
+                    "ap": [
+                        {
+                            "name": "Themis Chile S.P.A.",
+                            "amount": "88330659"
+                        },
+                        {
+                            "name": "Tessera Data Inca",
+                            "amount": "16045223"
+                        },
+                        {
+                            "name": "InformData, LLC",
+                            "amount": "8149646"
+                        },
+                        {
+                            "name": "Wholesale Screening Solutions LLC",
+                            "amount": "18553071"
+                        },
+                        {
+                            "name": "SJV & Associates, LLC",
+                            "amount": "19822265"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "companies": {
+                "checkr": {
+                    "data": [
+                        {
+                            "date": "May 8, 23",
+                            "ar": 2063463.50,
+                            "ap": 6876985
+                        },
+                        {
+                            "date": "May 9, 23",
+                            "ar": 1494243.77,
+                            "ap": 6876985
+                        },
+                        {
+                            "date": "May 10, 23",
+                            "ar": 105991.98,
+                            "ap": 6876985
+                        },
+                        {
+                            "date": "May 11, 23",
+                            "ar": 275412.17,
+                            "ap": 6876985
+                        },
+                        {
+                            "date": "May 12, 23",
+                            "ar": 5864010.87,
+                            "ap": 6876985
+                        },
+                        {
+                            "date": "May 13, 23",
+                            "ar": 0,
+                            "ap": 6876985
+                        },
+                        {
+                            "date": "May 14, 23",
+                            "ar": 0,
+                            "ap": 6876985
+                        }
+                    ],
+                    "net": [
+                        {
+                            "date": "May 8, 23",
+                            "net": -481321.50
+                        },
+                        {
+                            "date": "May 9, 23",
+                            "net": -538241.23
+                        },
+                        {
+                            "date": "May 10, 23",
+                            "net": -97703.0
+                        },
+                        {
+                            "date": "May 11, 23",
+                            "net": 660172.83
+                        },
+                        {
+                            "date": "May 12, 23",
+                            "net": -101274.13
+                        },
+                        {
+                            "date": "May 13, 23",
+                            "net": -686985
+                        },
+                        {
+                            "date": "May 14, 23",
+                            "net": -687985
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "name": "Amazon",
+                            "amount": "1623484"
+                        },
+                        {
+                            "name": "Walmart",
+                            "amount": "1304228"
+                        },
+                        {
+                            "name": "Shiftkey",
+                            "amount": "703682"
+                        },
+                        {
+                            "name": "Roadie Inc",
+                            "amount": "329009"
+                        },
+                        {
+                            "name": "Shiftsmart Inc",
+                            "amount": "161410"
+                        }
+                    ],
+                    "ap": [
+                        {
+                            "name": "AP Batch",
+                            "amount": "12508446"
+                        },
+                        {
+                            "name": "Intercompany",
+                            "amount": "12000000"
+                        },
+                        {
+                            "name": "Within Entity",
+                            "amount": "12000000"
+                        },
+                        {
+                            "name": "Payroll & Benefits",
+                            "amount": "6689272"
+                        },
+                        {
+                            "name": "NYS + Courts Payments",
+                            "amount": "2689257"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "companies": {
+                "checkr": {
+                    "data": [
+                        {
+                            "date": "23-05-15",
+                            "ar": 242576.28,
+                            "ap": 2641116
+                        },
+                        {
+                            "date": "23-05-16",
+                            "ar": 380040.31,
+                            "ap": 2641116
+                        },
+                        {
+                            "date": "23-05-17",
+                            "ar": 258647.12,
+                            "ap": 2641116
+                        },
+                        {
+                            "date": "23-05-18",
+                            "ar": 1281403.67,
+                            "ap": 2641116
+                        },
+                        {
+                            "date": "23-05-19",
+                            "ar": 456827.25,
+                            "ap": 2641116
+                        },
+                        {
+                            "date": "23-05-20",
+                            "ar": 0,
+                            "ap": 2641116
+                        },
+                        {
+                            "date": "23-05-21",
+                            "ar": 0,
+                            "ap": 2641116
+                        },
+                        {
+                            "date": "23-05-22",
+                            "ar_predict": 456980,
+                            "ap_predict": 245805
+                        },
+                        {
+                            "date": "23-05-23",
+                            "ar_predict": 645580,
+                            "ap_predict": 321505
+                        },
+                        {
+                            "date": "23-05-24",
+                            "ar_predict": 1315800,
+                            "ap_predict": 2515050
+                        },
+                        {
+                            "date": "23-05-25",
+                            "ar_predict": 1212380,
+                            "ap_predict": 123505
+                        }
+                    ],
+                    "net": [
+                        {
+                            "date": "23-05-15",
+                            "net": 2398539.72
+                        },
+                        {
+                            "date": "23-05-16",
+                            "net": 2261075.69
+                        },
+                        {
+                            "date": "23-05-17",
+                            "net": 2382468.88
+                        },
+                        {
+                            "date": "23-05-18",
+                            "net": 1010287.67
+                        },
+                        {
+                            "date": "23-05-19",
+                            "net": 2184288.75
+                        },
+                        {
+                            "date": "23-05-20",
+                            "net": 2641116
+                        },
+                        {
+                            "date": "23-05-21",
+                            "net": 2641116
+                        },
+                        {
+                            "date": "23-05-22",
+                            "net_predicted": 211175
+                        },
+                        {
+                            "date": "23-05-23",
+                            "net_predicted": 324075
+                        },
+                        {
+                            "date": "23-05-24",
+                            "net_predicted": -189925
+                        },
+                        {
+                            "date": "23-05-25",
+                            "net_predicted": 11900295
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "name": "Grubhub",
+                            "amount": "1197125"
+                        },
+                        {
+                            "name": "Deverus Inc.",
+                            "amount": "100000"
+                        },
+                        {
+                            "name": "Trinet",
+                            "amount": "96848"
+                        },
+                        {
+                            "name": "Backround Investigation Bureau LLC",
+                            "amount": "87485"
+                        },
+                        {
+                            "name": "Medical transpor",
+                            "amount": "84222"
+                        }
+                    ],
+                    "ap": [
+                        {
+                            "name": "ZBA",
+                            "amount": "7166424"
+                        },
+                        {
+                            "name": "AP Batch",
+                            "amount": "3004877"
+                        },
+                        {
+                            "name": "NYS + Courts Payments",
+                            "amount": "3154664"
+                        },
+                        {
+                            "name": "Baxter Research, Inc.",
+                            "amount": "957321"
+                        },
+                        {
+                            "name": "Google LLC",
+                            "amount": "562088"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "weekly": [
+        {
+            "companies": {
+                "checkr": {
+                    "data": [
+                        {
+                            "date": "23-05-07",
+                            "ar": 27484250.6975,
+                            "ap": 14135481.04
+                        },
+                        {
+                            "date": "23-05-14",
+                            "ar": 13582588,
+                            "ap": 48138895
+                        },
+                        {
+                            "date": "23-05-21",
+                            "ar": 2455542,
+                            "ap": 18487812
+                        },
+                        {
+                            "date": "23-05-28",
+                            "ar_predict": 33450826,
+                            "ap_predict": 29013395
+                        },
+                        {
+                            "date": "23-06-04",
+                            "ar_predict": 21111970.86,
+                            "ap_predict": 22013395
+                        }
+                    ],
+                    "net": [
+                        {
+                            "date": "23-05-07",
+                            "net": 13348769.66
+                        },
+                        {
+                            "date": "23-05-14",
+                            "net": 34556307
+                        },
+                        {
+                            "date": "23-05-21",
+                            "net": 16032270
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "name": "Uber",
+                            "amount": "24458138"
+                        },
+                        {
+                            "name": "Go Brands Inc",
+                            "amount": "587399"
+                        },
+                        {
+                            "name": "Aramark",
+                            "amount": "456719"
+                        },
+                        {
+                            "name": "Pattern Jobs",
+                            "amount": "239085"
+                        },
+                        {
+                            "name": "TwoMagnets Inc.",
+                            "amount": "178985"
+                        }
+                    ],
+                    "ap": [
+                        {
+                            "name": "Themis Chile S.P.A.",
+                            "amount": "88330659"
+                        },
+                        {
+                            "name": "Tessera Data Inca",
+                            "amount": "16045223"
+                        },
+                        {
+                            "name": "InformData, LLC",
+                            "amount": "8149646"
+                        },
+                        {
+                            "name": "Wholesale Screening Solutions LLC",
+                            "amount": "18553071"
+                        },
+                        {
+                            "name": "SJV & Associates, LLC",
+                            "amount": "19822265"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "companies": {
+                "checkr": {
+                    "data": [
+                        {
+                            "date": "23-05-07",
+                            "ar": 27484250.6975,
+                            "ap": 14135481.04
+                        },
+                        {
+                            "date": "23-05-14",
+                            "ar": 13582588,
+                            "ap": 48138895
+                        },
+                        {
+                            "date": "23-05-21",
+                            "ar": 2455542,
+                            "ap": 18487812
+                        },
+                        {
+                            "date": "23-05-28",
+                            "ar_predict": 33450826,
+                            "ap_predict": 29013395
+                        },
+                        {
+                            "date": "23-06-04",
+                            "ar_predict": 21111970.86,
+                            "ap_predict": 22013395
+                        }
+                    ],
+                    "net": [
+                        {
+                            "date": "23-05-07",
+                            "net": 13348769.66
+                        },
+                        {
+                            "date": "23-05-14",
+                            "net": 34556307
+                        },
+                        {
+                            "date": "23-05-21",
+                            "net": 16032270
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "name": "Uber",
+                            "amount": "24458138"
+                        },
+                        {
+                            "name": "Go Brands Inc",
+                            "amount": "587399"
+                        },
+                        {
+                            "name": "Aramark",
+                            "amount": "456719"
+                        },
+                        {
+                            "name": "Pattern Jobs",
+                            "amount": "239085"
+                        },
+                        {
+                            "name": "TwoMagnets Inc.",
+                            "amount": "178985"
+                        }
+                    ],
+                    "ap": [
+                        {
+                            "name": "Themis Chile S.P.A.",
+                            "amount": "88330659"
+                        },
+                        {
+                            "name": "Tessera Data Inca",
+                            "amount": "16045223"
+                        },
+                        {
+                            "name": "InformData, LLC",
+                            "amount": "8149646"
+                        },
+                        {
+                            "name": "Wholesale Screening Solutions LLC",
+                            "amount": "18553071"
+                        },
+                        {
+                            "name": "SJV & Associates, LLC",
+                            "amount": "19822265"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "companies": {
+                "checkr": {
+                    "data": [
+                        {
+                            "date": "23-05-07",
+                            "ar": 27484250.6975,
+                            "ap": 14135481.04
+                        },
+                        {
+                            "date": "23-05-14",
+                            "ar": 13582588,
+                            "ap": 48138895
+                        },
+                        {
+                            "date": "23-05-21",
+                            "ar": 2455542,
+                            "ap": 18487812
+                        },
+                        {
+                            "date": "23-05-28",
+                            "ar_predict": 33450826,
+                            "ap_predict": 29013395
+                        },
+                        {
+                            "date": "23-06-04",
+                            "ar_predict": 21111970.86,
+                            "ap_predict": 22013395
+                        }
+                    ],
+                    "net": [
+                        {
+                            "date": "23-05-07",
+                            "net": 13348769.66
+                        },
+                        {
+                            "date": "23-05-14",
+                            "net": 34556307
+                        },
+                        {
+                            "date": "23-05-21",
+                            "net": 16032270
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "name": "Uber",
+                            "amount": "24458138"
+                        },
+                        {
+                            "name": "Go Brands Inc",
+                            "amount": "587399"
+                        },
+                        {
+                            "name": "Aramark",
+                            "amount": "456719"
+                        },
+                        {
+                            "name": "Pattern Jobs",
+                            "amount": "239085"
+                        },
+                        {
+                            "name": "TwoMagnets Inc.",
+                            "amount": "178985"
+                        }
+                    ],
+                    "ap": [
+                        {
+                            "name": "Themis Chile S.P.A.",
+                            "amount": "88330659"
+                        },
+                        {
+                            "name": "Tessera Data Inca",
+                            "amount": "16045223"
+                        },
+                        {
+                            "name": "InformData, LLC",
+                            "amount": "8149646"
+                        },
+                        {
+                            "name": "Wholesale Screening Solutions LLC",
+                            "amount": "18553071"
+                        },
+                        {
+                            "name": "SJV & Associates, LLC",
+                            "amount": "19822265"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
